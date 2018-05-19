@@ -18,7 +18,7 @@ coverage run -m src.odd_number --source=_test_,src _test_/test_math.py
 mongo --authenticationDatabase admin -u root -p
 
 db.createUser({
-    user: "roberto",
+    user: "ezreth",
     pwd: "admin",
     roles: [ "readWrite", "dbAdmin" ]
 })
