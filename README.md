@@ -1,10 +1,10 @@
 # _visita-core_
 ## _Proyecto para el curso de modelo de datos_
 Integrantes
-- Cristina Suarez
-- Veronica Vega
-- Hugo Bonini
-- Roberto Chasipanta
+- Natalia Carvajal
+- Karina Molina
+- Diego López
+
 
 ## Instrucci&oacute;n necesaria para la covertura
 ```commandline
